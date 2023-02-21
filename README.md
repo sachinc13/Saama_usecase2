@@ -1,6 +1,6 @@
 # Saama_usecase2
 
-In use case 2,I have prefromed below task.
+In use case 2,I have preformed below task.
 
 1)Extracting zip file and loading it in to the temp location(refer function-unzip_file_fn() in usecase_2.py file)
 
